@@ -1,1 +1,1 @@
-ln ~/gits/dotfiles/_bashrc .bashrc
+ln ~/gits/dotfiles/_bashrc.sh .bashrc
